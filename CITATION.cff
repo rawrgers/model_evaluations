@@ -9,4 +9,4 @@ version: 2.0.4
 identifiers:
   - type: doi
     value: 10.5281/zenodo.13323370
-date-released: 2024-08-11
+    date-released: 2024-08-11
