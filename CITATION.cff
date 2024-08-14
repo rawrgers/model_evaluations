@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Rogers
+    given-names: Matthew
+    orcid: https://orcid.org/0000-0003-4587-189X
+title: "Python Code for Substantial cold bias during wintertime cold extremes in the southern Cascadia region in historical CMIP6 simulations"
+version: 2.0.4
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.13323370
+date-released: 2024-08-11
